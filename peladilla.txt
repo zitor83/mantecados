@@ -1,2 +1,13 @@
+
 Este es un cambio a lo bestia
 Con varias líneas que no  tienen nada q ver con lo que hay en el repositorio principal
+=======
+
+Esta es una peladilla loca
+Esta es una modificación desde mi maquina local
+
+Esta es una segunda modificación desde Github
+Otra cosa mas
+
+Mas cosas
+Mas lineas
