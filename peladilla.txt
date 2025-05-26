@@ -1,6 +1,9 @@
+
 Esta es una peladilla loca
 Esta es una modificación desde mi maquina local
-Esta es una peladilla
-Esta es una modificación de la peladilla
-Esta es una segunda modificación desde Github
 
+Esta es una segunda modificación desde Github
+Otra cosa mas
+
+Mas cosas
+Mas lineas
